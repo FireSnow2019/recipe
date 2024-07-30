@@ -1,1 +1,2 @@
+title: Cake Recipe
 this is the recipe of baking cake.
